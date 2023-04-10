@@ -4,7 +4,7 @@ Hi everyone, it's Emir
 
 I am trying to improve myself everyday and trying to be the best version of myself.
 
-Skills: React.js, Redux.js, Tailwind, SCSS
+# Skills: React.js, Redux.js, Tailwind, SCSS
 
 - 🔭 I’m currently working on Building Chat Applications 
 - 🌱 I’m currently learning Redux Toolkit 
