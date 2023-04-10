@@ -1,8 +1,8 @@
 ### Hi there 👋, it's Emir
-#### Passionate Frontend Developer dedicated to continual self-improvement in pursuit of excellence.
+#### I am a Frontend Developer constantly striving for excellence and growth. Every day, I am dedicated to pushing myself to new height and becoming the absolute version of myself
 Hi everyone, it's Emir
 
-I am a Frontend Developer constantly striving for excellence and growth. Every day, I am dedicated to pushing myself to new height and becoming the absolute version of myself
+I am trying to gain experiences with React.js. Currently working on an chat app and using React, Redux and Tailwind for Frontend.
 
 ### Skills: React.js, Redux.js, Tailwind, SCSS
 
